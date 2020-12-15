@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Lolipop 51"
